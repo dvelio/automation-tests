@@ -1,0 +1,8 @@
+obj/
+bin/
+*.suo
+*.user
+.DS_Store
+packages/
+sqlite3/
+.vs/
