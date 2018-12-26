@@ -1,0 +1,11 @@
+C:\Users\Aleksandar\Desktop\Melon\Framework\bin\Debug\Framework.dll
+C:\Users\Aleksandar\Desktop\Melon\Framework\bin\Debug\Framework.pdb
+C:\Users\Aleksandar\Desktop\Melon\Framework\bin\Debug\WebDriver.dll
+C:\Users\Aleksandar\Desktop\Melon\Framework\bin\Debug\WebDriver.Support.dll
+C:\Users\Aleksandar\Desktop\Melon\Framework\bin\Debug\WebDriver.xml
+C:\Users\Aleksandar\Desktop\Melon\Framework\bin\Debug\WebDriver.Support.xml
+C:\Users\Aleksandar\Desktop\Melon\Framework\obj\Debug\Framework.csprojAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Melon\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\Melon\Framework\obj\Debug\Framework.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\Melon\Framework\obj\Debug\Framework.dll
+C:\Users\Aleksandar\Desktop\Melon\Framework\obj\Debug\Framework.pdb
