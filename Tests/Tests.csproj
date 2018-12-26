@@ -51,9 +51,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AccessoriesPageTests\AreAllLoadedProductsDisplayedCorrectly.cs" />
-    <Compile Include="AccessoriesPageTests\CanWeSearchByColors.cs" />
-    <Compile Include="AccessoriesPageTests\DoesAllProductsHavePriceTest.cs" />
-    <Compile Include="AccessoriesPageTests\CanWeSearchWithAllOptionsTest.cs" />
+    <Compile Include="AccessoriesPageTests\CanWeSearchWithAllColors.cs" />
+    <Compile Include="AccessoriesPageTests\CanWeSearchWithAllOptions.cs" />
     <Compile Include="MainTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="BrokersPageTests\SearchAllBrokersTest.cs" />

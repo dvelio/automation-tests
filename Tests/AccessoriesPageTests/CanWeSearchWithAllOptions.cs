@@ -5,7 +5,7 @@ using NUnit.Framework;
 namespace Tests.AccessoriesPageTests
 {
     [TestFixture,Parallelizable(ParallelScope.Fixtures)]
-    public class CanWeSearchWithAllOptionsTest : MainTest
+    public class CanWeSearchWithAllOptions : MainTest
     {
         [Test]
         public void Can_We_Seach_With_All_Options()

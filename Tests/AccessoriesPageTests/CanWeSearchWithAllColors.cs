@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace Tests.AccessoriesPageTests
 {
     [TestFixture, Parallelizable(ParallelScope.Fixtures)]
-    public class CanWeSearchByColors : MainTest
+    public class CanWeSearchWithAllColors : MainTest
     {
         [Test]
         public void Can_We_Search_By_Color()

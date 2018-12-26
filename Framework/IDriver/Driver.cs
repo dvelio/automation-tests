@@ -36,8 +36,8 @@ namespace IDriver
 
         public void SetDriver()
         {
-            //driver = new ChromeDriver(SetChromeOptions(chromeOptions));
-            driver = new RemoteWebDriver(new Uri(GetChromeNodeAdress()) , chromeOptions);
+            driver = new ChromeDriver(SetChromeOptions(chromeOptions));
+            //driver = new RemoteWebDriver(new Uri(GetChromeNodeAdress()) , chromeOptions);
         }
 
         public IWebDriver GetDriver()
