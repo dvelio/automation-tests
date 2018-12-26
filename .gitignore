@@ -5,4 +5,4 @@ bin/
 .DS_Store
 packages/
 sqlite3/
-.vs/
+.vs/ 
