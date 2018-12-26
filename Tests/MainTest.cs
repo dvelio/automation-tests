@@ -22,6 +22,7 @@ namespace Tests
                 driver.TakeScreenshot(TestContext.CurrentContext.Test.Name);
 
             driver.CleanUpDriver();
+
         }
     }
 }
