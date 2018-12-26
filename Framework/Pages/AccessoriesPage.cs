@@ -15,7 +15,6 @@ namespace Framework.Pages
         public void GoTo()
         {
             GoTo("https://www.bugaboo.com/NL/en_NL/strollers/accessories?");
-            ImplicityWait();
             WaitPageToLoad();
         }
 

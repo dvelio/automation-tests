@@ -16,7 +16,6 @@ namespace Framework.Pages
         public void GoTo()
         {
             GoTo("https://www.yavlena.com/broker/");
-            ImplicityWait();
         }
 
         public void AcceptCookie()
